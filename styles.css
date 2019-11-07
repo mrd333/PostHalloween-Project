@@ -1,0 +1,40 @@
+#images{
+    display: flex;
+    justify-content: space-around;
+    }
+#border{
+    border: solid darkOrange 10px;
+    border-radius: 20px;
+    height: 420px;
+    }
+#border2{
+    border: solid darkOrange 10px;
+    border-radius: 20px;
+    }
+div{
+    text-align: center;
+    }
+.img1{
+    width: 400px;
+    }
+.img2{
+    width: 400px;
+    }
+body{
+    background-image: url("https://i.pinimg.com/originals/d2/3f/67/d23f678d725b346d882d830e232f1b8f.jpg");
+    background-size: 100%;
+    }
+h1{
+    display: flex;
+    justify-content: center;
+    color: darkRed;
+    font-family: 'Creepster', cursive;
+    }
+#buttons{
+    display: flex;
+    justify-content: space-around;
+    }
+body{
+    font-family: 'Creepster', cursive;
+    font-size: 35px;
+    }
